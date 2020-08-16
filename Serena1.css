@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+.whyworld {
+width: 437px;
+background: linear-gradient(to left, #383838, #025378);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font: 35px Open Sans Condensed;
+text-transform: uppercase;
+letter-spacing: 2px;
+margin-bottom: -10px;}
