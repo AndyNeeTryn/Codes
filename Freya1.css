@@ -1,0 +1,22 @@
+.freyaf {
+width:10px;
+height:10px;
+-webkit-animation: yeai 10s linear infinite; 
+-moz-animation: yeai 10s linear infinite; 
+position:relative; 
+float: left;} 
+
+.freyaf2 {
+width:10px;
+height:10px;
+-webkit-animation: yeai 10s linear 2.6s infinite; 
+-moz-animation: yeai 10s linear 2.6s infinite; 
+position:relative; 
+float: left;} 
+
+@keyframes yeai {
+0% {left:0px;top:0px;} 
+25% {left:210px;top:0px;} 
+50% {left:210px;top:110px;} 
+75% {left:0px;top:110px;} 
+100% {left:0px;top:0px;}}
