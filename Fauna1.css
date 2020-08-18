@@ -1,0 +1,17 @@
+.nwefa {
+width:120px;
+height:120px;
+-moz-transform:rotate(6deg);
+-webkit-transform:rotate(6deg);} 
+
+.nwrfa {
+width:120px;
+height:120px;
+-moz-transform:rotate(-6deg);
+-webkit-transform:rotate(-6deg);} 
+
+.nwafa {
+width:100px;
+height:100px;
+margin-left:12px;
+margin-top:-112px;}
