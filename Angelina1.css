@@ -1,0 +1,13 @@
+ .myangel {
+ width:150px;
+ height:110px;
+ padding:10px; 
+ -webkit-animation: avasi 5s linear infinite alternate; 
+ -moz-animation: avasi 5s linear infinite alternate;} 
+ 
+ .myangel2 {
+ width:150px;
+ height:110px;
+ padding:10px; 
+ -webkit-animation: avasi 5s linear infinite alternate-reverse; 
+ -moz-animation: avasi 5s linear infinite alternate-reverse;}
