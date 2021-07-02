@@ -1,0 +1,12 @@
+#an09 {
+  display: none;} 
+
+.letstrythis label {
+  color: #333300; 
+  font-size: 30px; 
+  position: relative; 
+  right: 220px; 
+  z-index: 2} 
+
+.letstrythis {
+  width: 500px;}
