@@ -1,0 +1,27 @@
+ .serio {
+   width:20px;
+   height:10px;} 
+
+.mesmo {
+  width:220px;
+  height:10px;
+  position:relative;
+  top:-10px;} 
+
+.carai {
+  width:300px;
+  height:120px;
+  margin-top:5px;
+  margin-bottom:5px;} 
+
+.maism {
+  width:350px;
+  margin-bottom:-10px;
+  position:relative;
+  z-index:1;} 
+
+.tudot {
+  width:350px;
+  margin-top:10px;
+  position:relative;
+  top:-8px;}
