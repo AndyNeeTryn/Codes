@@ -1,0 +1,24 @@
+ .evelos {
+   width:150px;
+   height:150px;
+   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+   position:relative;
+   z-index:1} 
+
+.evedia {
+  width:150px;
+  height:1px;
+  -moz-transform:rotate(-45deg); 
+  -webkit-transform:rotate(-45deg);
+  position:relative;
+  left:45px;
+  top:-25px;} 
+
+.evenoi {
+  width:150px;
+  height:1px;
+  -moz-transform:rotate(45deg); 
+  -webkit-transform:rotate(45deg);
+  position:relative;
+  right:45px;
+  top:-25px}
