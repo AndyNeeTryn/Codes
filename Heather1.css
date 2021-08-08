@@ -1,0 +1,14 @@
+.heather {
+  width:150px;
+  letter-spacing:3px;
+  text-align:center;
+  color:#025378;
+  border: 3px double #025378;
+  padding:5pxtransition:all 1s ease;} 
+
+.heather:hover {
+  color:#000000;
+  border: 3px double #025378;
+  background:transparent;
+  box-shadow:inset 0px 0px 90px 40px #ffffff;
+  transition:all 1s ease;}
